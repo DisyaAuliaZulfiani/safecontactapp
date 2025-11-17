@@ -1,0 +1,35 @@
+name: safecontactapp
+description: "A simple emergency contact mobile app for UTS."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  # Versi Dart SDK yang kompatibel dengan Flutter terbaru
+  sdk: '>=3.0.0 <4.0.0' 
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Wajib untuk State Management Riverpod (sesuai kriteria UTS)
+  flutter_riverpod: ^2.5.1 
+
+  # Wajib agar fungsi panggil kontak (_makeCall) bisa berjalan nyata
+  url_launcher: ^6.2.5
+
+  uuid: ^4.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  # Wajib
+  uses-material-design: true
+
+  # Bagian assets dan fonts saya hapus untuk menghindari error
+  # karena Anda belum tentu menyiapkan folder dan file yang diperlukan.
+  # Jika Anda ingin menambahkan font Poppins atau gambar,
+  # Anda harus menambahkannya ke sini lagi dan memastikan foldernya ada.
