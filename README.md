@@ -3,7 +3,7 @@
 Aplikasi ini dibuat untuk memenuhi tugas Ujian Tengah Semester mata kuliah Mobile Programming 2.
 
 ## 🖼️ Tampilan Utama Aplikasi
- ![alt images](<WhatsApp Image 2025-11-17 at 13.30.20_86bb432a.jpg>)
+ https://github.com/DisyaAuliaZulfiani/safecontactapp/blob/main/home%20screen.jpg?raw=true
 
 ## 🔗 Link Dokumen UTS Wajib
 
