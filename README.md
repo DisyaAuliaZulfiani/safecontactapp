@@ -11,7 +11,7 @@ Untuk mengakses Laporan Lengkap, Kode Sumber, dan Video Demo Aplikasi, silakan g
 
 * **Link GitHub Directory (`lib`)**: [Link Repositori GitHub Anda] 
 
-[KLIK DI SINI UNTUK AKSES GOOGLE DRIVE]: [https://drive.google.com/drive/folders/xxxx-GANTI-DENGAN-LINK-DRIVE-ANDA-xxxx](https://drive.google.com/drive/folders/1IAlTvEdahpXdtefwf3xFP1ncnHa4k_b9?usp=drive_link)
+* **Link Google Drive**: [https://drive.google.com/drive/folders/xxxx-GANTI-DENGAN-LINK-DRIVE-ANDA-xxxx](https://drive.google.com/drive/folders/1IAlTvEdahpXdtefwf3xFP1ncnHa4k_b9?usp=drive_link)
 
 ## 🧑‍🤝‍🧑 Anggota Kelompok
 - [Disya Aulia Zulfiani] (NIM: 232101302)
